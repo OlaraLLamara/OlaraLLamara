@@ -2,7 +2,7 @@
 - 👀 I’m interested in the good old Javascript, React and Python
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Python and Javascript
-- 📫 How to reach me OlaraLamara on twitter
+- 📫 How to reach me olara.lamara@gmail.com
 
 <!---
 OlaraLLamara/OlaraLLamara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
